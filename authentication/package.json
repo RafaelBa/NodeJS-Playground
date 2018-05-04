@@ -1,0 +1,13 @@
+{
+  "name": "notes_node",
+  "version": "0.0.1",
+  "description": "Application Authenticator in NodeJS",
+  "author": "Rafael B",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
